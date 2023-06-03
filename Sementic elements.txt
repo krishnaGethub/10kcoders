@@ -1,0 +1,31 @@
+<!doctype html>
+<html>
+<head>
+<body>
+<div></div>
+<h1>to<h6>
+<p>
+<strong></strong>
+<b></b>
+<i></i>
+<ins></ins>
+<mark></mark>
+<u></u>
+<del></del>
+<ul></ul>
+<li></li>
+<ol></ol>
+<img src="width,hight,length,size"/>
+<button>
+<a>
+<img>
+<header>
+<nav>
+<main>
+<aside>
+<section>
+<footer>
+</p>
+</body>
+</head>
+</html>
